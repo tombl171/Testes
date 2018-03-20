@@ -1,9 +1,10 @@
 Boa tarde;
-Hoje é o primeiro dia de reforço no git.
 
-Boa tarde;
-Segundo dia de Git.
+Estamos devolta com o curso de git.
 
-Boraaaaa vamoooooo.
+Por sinal está muito bom aprender.
 
-Está tudo funcionando....showww.
+Mais uma edição de arquivo par comitar a relase.
+
+
+Segue as alterações no git.
