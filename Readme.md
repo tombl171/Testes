@@ -8,3 +8,5 @@ Mais uma edição de arquivo par comitar a relase.
 
 
 Segue as alterações no git.
+
+Segue o jogo. 
